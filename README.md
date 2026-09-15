@@ -4,3 +4,4 @@
 в cmd "python -m pip install -r requirements.txt"
 потом "python app.py"
 залипаем на проект
+ы
